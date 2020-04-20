@@ -1,0 +1,17 @@
+{
+  "name": "crud",
+  "version": "1.0.0",
+  "description": "Este repositório contem a aplicação RESTful desenvolvida com Node.js que controla as operações CRUD em um banco de dados MySQL. Você pode encontrar um curso completo com a explicação do desenvolvimento acessando o link https://www.udemy.com/aplicacoes-web-na-pratica-javascript-nodejs/?couponCode=FB_DEC_JANFEB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "knex": "^0.14.6",
+    "mysql": "^2.18.1",
+    "restify": "^6.3.4",
+    "restify-errors": "^5.0.0"
+  }
+}
