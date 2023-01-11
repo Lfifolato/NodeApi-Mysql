@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "knex": "^0.14.6",
+    "knex": "^2.4.0",
     "mysql": "^2.18.1",
     "restify": "^6.3.4",
     "restify-errors": "^5.0.0"
